@@ -1,1 +1,1 @@
-# t2--integration-test-sample
+# t2-integration-test-sample
